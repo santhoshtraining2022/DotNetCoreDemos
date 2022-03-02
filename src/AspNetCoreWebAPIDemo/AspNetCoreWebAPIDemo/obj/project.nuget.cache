@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YGCQytsx4+DT50IGYCo/hzVaZqqt+f6hIUItSksnUT5vGYBb/VouOA+7balfvvoESDGWNccdlZg3Ut709j1qMA==",
+  "success": true,
+  "projectFilePath": "C:\\TRN\\GitRepos-DotNetCoreRepos\\src\\AspNetCoreWebAPIDemo\\AspNetCoreWebAPIDemo\\AspNetCoreWebAPIDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

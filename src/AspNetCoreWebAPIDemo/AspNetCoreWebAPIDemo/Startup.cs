@@ -56,6 +56,8 @@ namespace AspNetCoreWebAPIDemo
             });
 
             //checking out test for gitgub
+
+            //including log functionality
         }
     }
 }
